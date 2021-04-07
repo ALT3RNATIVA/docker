@@ -1,6 +1,6 @@
-.private
 db
 inspircd-docker/conf/key.pem
 inspircd-docker/conf/cert.pem
 inspircd-docker/conf/dhparams.pem
-
+.private
+.git
