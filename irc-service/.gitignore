@@ -1,3 +1,4 @@
+.env
 db
 inspircd-docker/conf/key.pem
 inspircd-docker/conf/cert.pem
